@@ -1,7 +1,7 @@
 m1=int(input("Enter a mark1:"))
 m2=int(input("Enter a mark2:"))
 m3=int(input("Enter a mark3:"))
-total=m1=m2+m3
+total=m1+m2+m3
 avg=total/3
 if(avg>90):
     print("Grade O")
